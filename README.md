@@ -22,4 +22,5 @@
 * How to use API and get a data out of it (Yelp API)
 * How to design an App with basic StyleSheet
 * How to design a helper 
+* How to implement React Navigation
 
