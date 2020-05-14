@@ -1,1 +1,3 @@
-# Restaurant-Search-App-React-Native-
+# Restaurant Search App
+## Made with React Native
+
